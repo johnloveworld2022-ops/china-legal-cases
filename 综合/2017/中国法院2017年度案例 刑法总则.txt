@@ -1,2 +1,0 @@
-[ERROR] 无法处理文件：中国法院2017年度案例 刑法总则.pdf
-原因：Image size (184601670 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
